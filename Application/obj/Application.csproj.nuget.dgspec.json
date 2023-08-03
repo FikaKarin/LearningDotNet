@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/Application.csproj",
+        "packagesPath": "/Users/karinlundkvist/.nuget/packages/",
+        "outputPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/karinlundkvist/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj"
+              },
+              "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj",
+        "packagesPath": "/Users/karinlundkvist/.nuget/packages/",
+        "outputPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/karinlundkvist/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/karinlundkvist/.nuget/packages/",
+        "outputPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/karinlundkvist/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj": {
+                "projectPath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll
