@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "5jHyOhH73elymdOn35SZ7+CggwOrRFP3brZW4OR0oy1OXHYLAl9czKwgd+OJ7AiZ0JzhKJaYkXI6qFgJjzyJEg==",
+  "dgSpecHash": "3W6gQn9t5ppLM5MVfbg25nh+fPy8koWjFxYMAIYxL8hUrrWdeKGVSKuimYMGm1OfDmKSeiOnzqagHvnLZyIIkw==",
   "success": true,
   "projectFilePath": "/Users/karinlundkvist/Desktop/dotNet Core and React App/Demo/Reactivities/API/API.csproj",
   "expectedPackageFiles": [
     "/Users/karinlundkvist/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
+    "/Users/karinlundkvist/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/karinlundkvist/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/karinlundkvist/.nuget/packages/microsoft.aspnetcore.openapi/7.0.9/microsoft.aspnetcore.openapi.7.0.9.nupkg.sha512",
     "/Users/karinlundkvist/.nuget/packages/microsoft.data.sqlite.core/7.0.9/microsoft.data.sqlite.core.7.0.9.nupkg.sha512",
     "/Users/karinlundkvist/.nuget/packages/microsoft.entityframeworkcore/7.0.9/microsoft.entityframeworkcore.7.0.9.nupkg.sha512",
