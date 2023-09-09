@@ -8,3 +8,4 @@ React dev tools
 Typescript
 Axios
 Semantic-ui
+Vite
