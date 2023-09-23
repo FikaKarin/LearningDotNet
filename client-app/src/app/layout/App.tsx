@@ -54,7 +54,7 @@ function App() {
           ...activities.filter((x) => x.id !== activity.id),
           activity,
         ]);
-        setSelectedActivity(activity)
+        setSelectedActivity(activity);
         setEditMode(false);
         setSubmitting(false);
       });
@@ -75,7 +75,11 @@ function App() {
   }
 
   function handleDeleteActivity(id: string) {
-    setActivities([...activities.filter((x) => x.id !== id)]);
+    setSubmitting(true);
+    agent.Activities.delete(id).then(() => {
+      setActivities([...activities.filter((x) => x.id !== id)]);
+      setSubmitting(false);
+    });
   }
 
   if (loading) return <LoadingComponent content='Loading app' />;
@@ -94,7 +98,7 @@ function App() {
           closeForm={handleFormClose}
           createOrEdit={handleCreateOrEditActivity}
           deleteActivity={handleDeleteActivity}
-          submitting= {submitting}
+          submitting={submitting}
         />
       </Container>
     </>
